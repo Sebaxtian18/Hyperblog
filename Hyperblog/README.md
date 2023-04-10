@@ -1,4 +1,4 @@
-<p aling="center"><h ref="http://127.0.0.1:5500/blogpost.html" target="blank"><img src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" width="400" alt="logo hyperblog">
+<p aling="center"><h ref="http://127.0.0.1:5500/blogpost.html" target="blank"><img src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" width="150" alt="logo hyperblog">
 <p>
   
   ## Hyperblog
@@ -15,4 +15,4 @@ Un blog increible para el curso de Git y Github de Platzi.
   
   ## Agradecimientos.
   
-  Quiero agradecer a los profesores de Platzi por su buena metodologia en cada uno de sus temas, a la comunidad por estar tan dispuesta a colaborar en todo momento y en cualquier campo necesario, pero mas que nada quiero agradecer a esa compañera que paso por mi trabajo y me mostro este gran mundo de la programacion y el desarrollo web. Gracias por abrirme las puertas a este gra '/mundo/'
+  Quiero agradecer a los profesores de Platzi por su buena metodologia en cada uno de sus temas, a la comunidad por estar tan dispuesta a colaborar en todo momento y en cualquier campo necesario, pero mas que nada quiero agradecer a esa compañera que paso por mi trabajo y me mostro este gran mundo de la programacion y el desarrollo web. Gracias por abrirme las puertas a este gran `/mundo/`
