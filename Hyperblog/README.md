@@ -1,5 +1,5 @@
-<p aling="center"><h ref="http://127.0.0.1:5500/blogpost.html" target="blank"><img src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" width="150" alt="logo hyperblog">
-<p>
+<p aling="center"><h ref="http://127.0.0.1:8000/blogpost.html" target="blank"><img width="150" src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" alt="logo hyperblog"></a>
+</p>
   
   ## Hyperblog
   
