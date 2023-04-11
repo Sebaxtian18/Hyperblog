@@ -1,6 +1,6 @@
 <p align="center"><a href="http://127.0.0.1:8000/blogpost.html" target="_blank"><img width="150" src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" alt="Logo Hyperblog"></a></p>
 
-<p align="center"><h1>Nunca pares de aprender</h1></p>
+<p align="center"><h3 align="center">Nunca pares de aprender</h3></p>
 
   ## Hyperblog
   
