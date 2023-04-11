@@ -16,4 +16,6 @@ Un blog increible para el curso de Git y Github de Platzi.
   
   ## Agradecimientos.
   
-  Quiero agradecer a los profesores de Platzi por su buena metodologia en cada uno de sus temas, a la comunidad por estar tan dispuesta a colaborar en todo momento y en cualquier campo necesario, pero mas que nada quiero agradecer a esa compañera que paso por mi trabajo y me mostro este gran mundo de la programacion y el desarrollo web. Gracias por abrirme las puertas a este gran `/mundo/`
+  Quiero agradecer a los profesores de Platzi por su buena metodologia en cada uno de sus temas, a la comunidad por estar tan dispuesta a colaborar en todo momento y en cualquier campo necesario, pero mas que nada quiero agradecer a esa compañera que paso por mi trabajo y me mostro este gran mundo de la programacion y el desarrollo web. Gracias por abrirme las puertas a este gran `mundo` 
+
+<p align="center"><a href="https://imgur.com/woFpAbO"><img width="400" src="https://i.imgur.com/woFpAbO.jpg" title="source: imgur.com" /></a></p> 
