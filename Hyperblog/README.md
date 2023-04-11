@@ -1,6 +1,6 @@
-<p aling="center"><h ref="http://127.0.0.1:8000/blogpost.html" target="blank"><img width="150" src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" alt="logo hyperblog"></a>
+<p aling="center"><a href="http://127.0.0.1:8000/" target="_blank"><img width="150" src="https://github.com/Sebaxtian18/Hyperblog/blob/main/Hyperblog/imagenes/pngwing.com.png" alt="Logo Hyperblog"></a>
 </p>
-  
+
   ## Hyperblog
   
 Un blog increible para el curso de Git y Github de Platzi.
