@@ -13,6 +13,7 @@ Un blog increible para el curso de Git y Github de Platzi.
   - Como colaborar en proyectos de open source.
   - Como hacer un Pull Request.
   - A manejar conflictos entre los codigo y como evitarlos con buenas practicas.
+  - Agradecimientos al Team Platzi
   
   ## Agradecimientos.
   
